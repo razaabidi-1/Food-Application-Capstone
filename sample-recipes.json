@@ -1,0 +1,38 @@
+[
+  {
+    "id": "1",
+    "name": "Spaghetti Bolognese",
+    "category": "Pasta",
+    "image": "https://picsum.photos/400/300?random=1",
+    "ingredients": ["200g spaghetti", "100g minced beef", "1 cup tomato sauce"],
+    "instructions": "Cook pasta. Prepare sauce. Combine and serve.",
+    "prepTime": "30 mins",
+    "servings": 2,
+    "calories": 550,
+    "difficulty": "Medium"
+  },
+  {
+    "id": "2",
+    "name": "Chicken Salad",
+    "category": "Salad",
+    "image": "https://picsum.photos/400/300?random=2",
+    "ingredients": ["150g chicken", "Lettuce", "Tomatoes", "Dressing"],
+    "instructions": "Grill chicken. Toss with vegetables and dressing.",
+    "prepTime": "20 mins",
+    "servings": 1,
+    "calories": 350,
+    "difficulty": "Easy"
+  },
+  {
+    "id": "3",
+    "name": "Pancakes",
+    "category": "Breakfast",
+    "image": "https://picsum.photos/400/300?random=3",
+    "ingredients": ["Flour", "Milk", "Eggs"],
+    "instructions": "Mix batter and cook on skillet.",
+    "prepTime": "15 mins",
+    "servings": 4,
+    "calories": 200,
+    "difficulty": "Easy"
+  }
+]
